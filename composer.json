@@ -1,0 +1,16 @@
+{
+    "name": "josephnc/students-payout-calculator",
+    "description": "Produces the total payout for students given a csv file of student attendance and workplaces.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "JosephNC",
+            "email": "chukwudinwakpaka@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.4.0"
+    }
+}
